@@ -14,7 +14,8 @@ Si querés añadir algo, por favor ten en cuenta:
 
 - Por favor, asegurate también que lo que agregues esté en la categoría correspondiente.
 
-- Si sentis que es mejor añadir un comentario para quien esté viendo esta lista, podés añadir a continuación del link a tu recurso `— <Comentario>`. (Esto puede cambiar en el futuro)
+- Para los libros, intenta usar un nombre tal que sea fácil de encontrar (:wink:).
+- Si sentis que es mejor añadir un comentario para quien esté viendo esta lista, podés añadir a continuación del link a de recurso `— <Comentario>`. (Esto puede cambiar en el futuro)
 
 - Si agregas una nueva versión de un recurso ya existente, por favor agregalo inmediatamente debajo en una sublista, además en el pull request intenta añadir una descripción de por qué viste necesario hacerlo. 
   - Un ejemplo de cómo se vería esto último:
