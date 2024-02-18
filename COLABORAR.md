@@ -10,16 +10,17 @@ La forma más fácil es ir a https://github.com/JxJxxJxJ/RecursosUtiles-FaMAF-Co
 Si querés añadir algo, por favor ten en cuenta:
 
 - ¿Es lo que agregás valioso para quien está cursando la materia?
-- - Intenta pensar en cuánto te ayudó personalmente a la hora de cursar y si te hubiese gustado encontrarlo antes, o si se lo recomendarías a un amigo.
+  - Intenta pensar en cuánto te ayudó personalmente a la hora de cursar y si te hubiese gustado encontrarlo antes, o si se lo recomendarías a un amigo.
 
 - Por favor, asegurate también que lo que agregues esté en la categoría correspondiente.
 
-- Si sentis que es mejor añadir un comentario para quien esté viendo esta lista, podes añadir a continuación del link a tu recurso`— <Comentario>`. (Esto puede cambiar en el futuro)
+- Si sentis que es mejor añadir un comentario para quien esté viendo esta lista, podés añadir a continuación del link a tu recurso `— <Comentario>`. (Esto puede cambiar en el futuro)
 
 - Si agregas una nueva versión de un recurso ya existente, por favor agregalo inmediatamente debajo en una sublista, además en el pull request intenta añadir una descripción de por qué viste valioso. 
-- - Un ejemplo de cómo se vería esto último:
+  - Un ejemplo de cómo se vería esto último:
   Antes:
-  ```md
+
+```
     # 1° 2C Álgebra
 ...
 - **Videos:**
@@ -27,8 +28,10 @@ Si querés añadir algo, por favor ten en cuenta:
   - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — Por 3Blue1Brown, infaltable
 ...
 ```
+
 Después:
-  ```md
+
+```
     # 1° 2C Álgebra
 ...
 - **Videos:**
