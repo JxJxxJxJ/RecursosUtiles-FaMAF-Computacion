@@ -78,7 +78,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 
 ## 1° 2C Algoritmos y estructuras de datos 1
 - **Libros:**
-  - The C programming language \[2nd ed] — Por Dennis Ritchie
+  - The C programming language \[2nd ed] — Por Dennis Ritchie, útil a la hora de aprender C para el laboratorio.
   - Título del Libro 2  
   
 - **Videos:**
@@ -108,11 +108,14 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
    - Título del Libro 2 
 
 - **Videos:**
-  - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8) — Por el profesor Gilbert Strang
-  - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — Por 3Blue1Brown, infaltable
+  - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8) — Por el profesor Gilbert Strang, tiene un enfoque refrescante, suele comenzar "de atrás para delante". Se enfoca mucho más en las nociones e intuiciones.
+  - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — Por 3Blue1Brown, explica y aporta visualizaciones de las nociones mas fundamentales del álgebra lineal.
 
+- **Blogs:**
+  - [Graphical Linear Algebra](https://graphicallinearalgebra.net/) — Una reconstrucción del álgebra lineal a través de legos, o algo así. Recomendable leer tras estar familarizado con conceptos de álgebra lineal.
 
-
+- **Recursos interactivos**
+  - [The Matrix Arcade](https://yizhe-ang.github.io/matrix-explorable/) — Podés jugar transformando (linealmente) imagenes y objetos 3D.
 ---
 
 ## 2° 1C Algoritmos y estructuras de datos 2
