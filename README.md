@@ -46,8 +46,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) — Infaltable
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 1° 1C Introducción a los algoritmos
@@ -58,8 +56,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -72,8 +68,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 1° 2C Algoritmos y estructuras de datos 1
@@ -85,8 +79,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 1° 2C Análisis matemático 2
@@ -97,8 +89,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -127,8 +117,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 2° 1C Análisis numérico
@@ -139,8 +127,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -153,8 +139,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 2° 2C Introducción a la lógica y a la computación
@@ -165,8 +149,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [20 Pumping Lemma Examples + Proofs](https://youtu.be/x2J5kaf6gjg?si=HjFux0GG6GgvYJkx)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -179,8 +161,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 2° 2C Sistemas operativos
@@ -191,8 +171,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -205,8 +183,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 3° 1C Paradigmas de la programación
@@ -217,8 +193,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -231,8 +205,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 3° 2C Arquitectura de computadoras
@@ -243,8 +215,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -257,8 +227,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 3° 2C Ingeniería del software 1
@@ -269,8 +237,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -283,8 +249,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 4° 1C Modelos y simulación
@@ -295,8 +259,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
@@ -309,8 +271,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 4° 2C Lógica
@@ -322,8 +282,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-
-
 ---
 
 ## 5° 1C Ingeniería del software 2
@@ -334,8 +292,6 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
 - **Videos:**
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
-
-
 
 ---
 
