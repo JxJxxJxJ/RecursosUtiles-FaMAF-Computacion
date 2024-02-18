@@ -1,11 +1,12 @@
 # Colaborar
+
 Querés añadir algo? Genial.
 
-La idea es tener recursos de todo tipo para quienes estén curansdo las materias. 
+La idea es tener recursos de todo tipo para quienes estén curansdo las materias.
 
-# ¿Como hacerlo?
+## ¿Cómo hacerlo?
 
-La forma más fácil es ir a https://github.com/JxJxxJxJ/RecursosUtiles-FaMAF-Computacion/blob/main/README.md y hacer clic en el lápiz arriba a la derecha. Tras hacer los cambios, solo basta seguir las indicaciones y crear un pull request.
+La forma más fácil es ir a <https://github.com/JxJxxJxJ/RecursosUtiles-FaMAF-Computacion/blob/main/README.md> y hacer clic en el lápiz arriba a la derecha. Tras hacer los cambios, solo basta seguir las indicaciones y crear un pull request.
 
 Si querés añadir algo, por favor ten en cuenta:
 
@@ -22,4 +23,3 @@ Si querés añadir algo, por favor ten en cuenta:
 - Si sentis que es mejor añadir un comentario para quienes vean esta lista, podés añadir a continuación del link o título `— <Comentario>`. (Esto puede cambiar en el futuro)
 
 - Si agregas una nueva versión de un recurso ya existente, por favor agregalo inmediatamente debajo en una sublista, además en el pull request intenta añadir una descripción de por qué consideraste necesario hacerlo.
-
