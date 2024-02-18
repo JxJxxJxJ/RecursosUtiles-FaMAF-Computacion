@@ -21,28 +21,5 @@ Si querés añadir algo, por favor ten en cuenta:
 
 - Si sentis que es mejor añadir un comentario para quienes vean esta lista, podés añadir a continuación del link o título `— <Comentario>`. (Esto puede cambiar en el futuro)
 
-- Si agregas una nueva versión de un recurso ya existente, por favor agregalo inmediatamente debajo en una sublista, además en el pull request intenta añadir una descripción de por qué consideraste necesario hacerlo. 
-  - Un ejemplo de cómo se vería esto último:
-    Antes:
-
-    ```
-    # 1° 2C Álgebra
-...
-- **Videos:**
-...
-  - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — Por 3Blue1Brown, infaltable
-...
-    ```
-
-          Después:
-
-    ```
-    # 1° 2C Álgebra
-...
-- **Videos:**
-...
-  - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — Por 3Blue1Brown, infaltable
-    - [Fundamentos del Álgebra Lineal](https://www.youtube.com/watch?v=0Ndnzx6AyaA&list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA) — Versión en Español
-...
-    ```
+- Si agregas una nueva versión de un recurso ya existente, por favor agregalo inmediatamente debajo en una sublista, además en el pull request intenta añadir una descripción de por qué consideraste necesario hacerlo.
 
