@@ -44,7 +44,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - Título del Libro 2
   
 - **Videos:**
-  - [The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) — Infaltable
+  - [The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) — Por 3Blue1Brown, infaltable. Muy útiles visualizaciones sobre las nociones fundamentales de Análisis.
   - [Video 2](enlace_video_2)  
 
 ---
