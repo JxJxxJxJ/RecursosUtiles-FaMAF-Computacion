@@ -1,11 +1,14 @@
 # Recursos Útiles
 Una lista de recursos apuntada para los estudiantes de Ciencas de la Computación en la FaMAF.
 
+Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/RecursosUtiles-FaMAF-Computacion/blob/main/COLABORAR.md).
+
 ---
 
 ## Tabla de contenidos
 
 - [Recursos Útiles](#recursos-útiles)
+  - [Tabla de contenidos](#tabla-de-contenidos)
   - [1° 1C Análisis matemático 1](#1-1c-análisis-matemático-1)
   - [1° 1C Introducción a los algoritmos](#1-1c-introducción-a-los-algoritmos)
   - [1° 1C Matemática discreta 1](#1-1c-matemática-discreta-1)
