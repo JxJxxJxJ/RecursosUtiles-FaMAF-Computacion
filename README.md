@@ -1,6 +1,6 @@
 # Recursos Útiles
 
-Una lista de recursos apuntada para los estudiantes de Ciencas de la Computación en la FaMAF.
+Una lista de recursos apuntada para los estudiantes de Ciencias de la Computación en la FaMAF.
 
 Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/RecursosUtiles-FaMAF-Computacion/blob/main/COLABORAR.md).
 
