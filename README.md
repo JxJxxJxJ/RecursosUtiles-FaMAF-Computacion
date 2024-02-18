@@ -158,7 +158,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - Título del Libro 2
   
 - **Videos:**
-  - [20 Pumping Lemma Examples + Proofs](https://youtu.be/x2J5kaf6gjg?si=HjFux0GG6GgvYJkx)  
+  - [20 Pumping Lemma Examples + Proofs](https://youtu.be/x2J5kaf6gjg?si=HjFux0GG6GgvYJkx) — Muestra varias dificultades, generalmente los de la materia son los "más faciles".
   - [Video 2](enlace_video_2)  
 
 ---
