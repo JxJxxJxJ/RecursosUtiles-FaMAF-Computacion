@@ -1,4 +1,5 @@
 # Recursos Útiles
+
 Una lista de recursos apuntada para los estudiantes de Ciencas de la Computación en la FaMAF.
 
 Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/RecursosUtiles-FaMAF-Computacion/blob/main/COLABORAR.md).
@@ -45,9 +46,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) — Infaltable
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -60,9 +59,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -75,9 +72,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -90,9 +85,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -105,9 +98,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -120,9 +111,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8) — Por el profesor Gilbert Strang
   - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — Por 3Blue1Brown, infaltable
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -135,9 +124,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -150,9 +137,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -165,9 +150,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -180,9 +163,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [20 Pumping Lemma Examples + Proofs](https://youtu.be/x2J5kaf6gjg?si=HjFux0GG6GgvYJkx)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -195,9 +176,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -210,9 +189,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -225,9 +202,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -240,9 +215,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -255,9 +228,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -270,9 +241,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -285,9 +254,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -300,9 +267,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -315,9 +280,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -330,9 +293,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -345,9 +306,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -360,9 +319,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -375,9 +332,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+
 
 ---
 
@@ -390,6 +345,4 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - [Video 1](enlace_video_1)  
   - [Video 2](enlace_video_2)  
 
-- **Blogs:**
-  - [Publicación de Blog 1](enlace_blog_1)  
-  - [Publicación de Blog 2](enlace_blog_2)  
+

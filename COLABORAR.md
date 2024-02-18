@@ -14,7 +14,10 @@ Si querés añadir algo, por favor ten en cuenta:
 
 - Por favor, asegurate también que lo que agregues esté en la categoría correspondiente.
 
-- Para los libros, intenta usar un nombre tal que sea fácil de encontrar (:wink:).
+- Para los libros u otros recursos reclamados por derechos de autor intenta usar un nombre tal que sea fácil encontrarlos en la web (:wink:).
+
+- Si el recurso que quieres agregar no pertenece a una categoria previamente añadida, podes añadir una pero intenta que sea suficientemente general para que otra gente también pueda usarla.
+
 - Si sentis que es mejor añadir un comentario para quien esté viendo esta lista, podés añadir a continuación del link a de recurso `— <Comentario>`. (Esto puede cambiar en el futuro)
 
 - Si agregas una nueva versión de un recurso ya existente, por favor agregalo inmediatamente debajo en una sublista, además en el pull request intenta añadir una descripción de por qué viste necesario hacerlo. 
