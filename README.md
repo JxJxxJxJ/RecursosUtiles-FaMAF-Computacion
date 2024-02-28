@@ -68,7 +68,7 @@ Si querés añadir algo, por favor lee [esto](https://github.com/JxJxxJxJ/Recurs
   - Título del Libro 2
   
 - **Videos:**
-  - [Video 1](enlace_video_1)  
+  - [The Beauty of Graph Theory](https://www.youtube.com/watch?v=oXcCAAEDte0) — Muy muy útil para el último capítulo de la materia, teoría de grafos. 
   - [Video 2](enlace_video_2)  
 
 ---
